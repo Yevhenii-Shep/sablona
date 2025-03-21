@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee05ec1-f5cf-4e8b-ab10-c5231c6e24b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/sablona/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/qna.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/qna.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sablona/data/datas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sablona/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sablona/parts/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sablona/parts/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sablona/pridajPozdrav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otazky.php" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/otazky.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/img/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/img/banners/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/img/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/img/banners/banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/img/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/img/banners/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/kontakt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/portfolio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/qna.php" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/qna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/thankyou.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +55,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/xampp/htdocs/sablona",
     "node.js.detected.package.eslint": "true",
@@ -55,6 +67,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sablona\sablona\sablona\sablona\sablona\img\banners" />
+      <recent name="C:\xampp\htdocs\sablona\sablona\sablona\sablona\sablona" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +91,7 @@
       <updated>1741295851547</updated>
       <workItem from="1741295853776" duration="81000" />
       <workItem from="1741295974422" duration="4986000" />
+      <workItem from="1742582752153" duration="4830000" />
     </task>
     <servers />
   </component>
