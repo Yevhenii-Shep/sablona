@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee05ec1-f5cf-4e8b-ab10-c5231c6e24b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sablona/data/datas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sablona/function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sablona/parts/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sablona/parts/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sablona/pridajPozdrav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/otazky.php" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/otazky.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/img/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/img/banners/banner1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/img/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/img/banners/banner2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/img/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/img/banners/banner3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/portfolio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/qna.php" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/qna.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sablona/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/thankyou.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/xampp/htdocs/sablona",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "web-ide.project.structure",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/sablona&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\sablona\sablona\sablona\sablona\sablona\img\banners" />
@@ -76,8 +61,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
-        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.26053.13" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.26053.13" />
       </set>
     </attachedChunks>
   </component>
@@ -91,7 +76,10 @@
       <updated>1741295851547</updated>
       <workItem from="1741295853776" duration="81000" />
       <workItem from="1741295974422" duration="4986000" />
-      <workItem from="1742582752153" duration="4830000" />
+      <workItem from="1742582752153" duration="4924000" />
+      <workItem from="1743101330006" duration="1036000" />
+      <workItem from="1743164156597" duration="7000" />
+      <workItem from="1743164205587" duration="1118000" />
     </task>
     <servers />
   </component>
