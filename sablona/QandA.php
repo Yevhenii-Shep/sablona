@@ -8,6 +8,7 @@ class QandA{
     public function __construct() {
         $this->connect();
     }
+    // pripojenie k databaze
     private function connect() {
         $config = DATABASE;
 

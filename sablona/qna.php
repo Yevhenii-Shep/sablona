@@ -31,6 +31,7 @@
       </div>
     </section>
       <section class="container">
+         // qna na stranke
           <?php
           include_once "classes/QandA.php";
           useotazkyodpovede\QandA;
