@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee05ec1-f5cf-4e8b-ab10-c5231c6e24b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sablona/QandA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sablona/insertQnA.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sablona/qna.php" beforeDir="false" afterPath="$PROJECT_DIR$/sablona/qna.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +83,7 @@
       <workItem from="1743101330006" duration="1036000" />
       <workItem from="1743164156597" duration="7000" />
       <workItem from="1743164205587" duration="1118000" />
+      <workItem from="1743753973833" duration="976000" />
     </task>
     <servers />
   </component>
